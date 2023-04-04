@@ -83,5 +83,3 @@ test:
 production:
   <<: *default
   database: sahki_rails_production
-  username: postgres
-  password: password
